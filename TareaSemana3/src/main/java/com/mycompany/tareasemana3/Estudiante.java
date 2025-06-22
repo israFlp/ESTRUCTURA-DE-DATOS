@@ -31,11 +31,8 @@ public class Estudiante {
          for(int i=0;i<3;i++){
              System.out.println("Telefono:"+(i+1)+":"+telefonos[i]); 
              
-         }    
-        
+         }     
           
      }
-         
-          
-   
-}
+              
+ }
