@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.exe
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.deps.json
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.runtimeconfig.json
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.dll
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\bin\Debug\net9.0\CatalogoRevistas.pdb
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.AssemblyInfo.cs
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.sourcelink.json
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.dll
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\obj\Debug\net9.0\refint\CatalogoRevistas.dll
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.pdb
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\obj\Debug\net9.0\CatalogoRevistas.genruntimeconfig.cache
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\CatalogoRevistas\obj\Debug\net9.0\ref\CatalogoRevistas.dll

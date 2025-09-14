@@ -1,0 +1,4 @@
+Equipo
+Torneo
+Main
+Jugador
