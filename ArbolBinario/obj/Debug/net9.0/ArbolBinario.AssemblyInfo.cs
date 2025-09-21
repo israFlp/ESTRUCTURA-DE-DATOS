@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CatalogoRevistas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ArbolBinario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3bde815782fa915110ef23275b76d4dc3facfe6")]
-[assembly: System.Reflection.AssemblyProductAttribute("CatalogoRevistas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CatalogoRevistas")]
+[assembly: System.Reflection.AssemblyProductAttribute("ArbolBinario")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ArbolBinario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

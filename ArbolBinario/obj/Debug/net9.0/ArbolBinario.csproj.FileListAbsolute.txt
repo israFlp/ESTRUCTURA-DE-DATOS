@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\bin\Debug\net9.0\ArbolBinario.exe
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\bin\Debug\net9.0\ArbolBinario.deps.json
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\bin\Debug\net9.0\ArbolBinario.runtimeconfig.json
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\bin\Debug\net9.0\ArbolBinario.dll
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\bin\Debug\net9.0\ArbolBinario.pdb
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\obj\Debug\net9.0\ArbolBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\obj\Debug\net9.0\ArbolBinario.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\obj\Debug\net9.0\ArbolBinario.AssemblyInfo.cs
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\obj\Debug\net9.0\ArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\obj\Debug\net9.0\ArbolBinario.sourcelink.json
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\obj\Debug\net9.0\ArbolBinario.dll
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\obj\Debug\net9.0\refint\ArbolBinario.dll
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\obj\Debug\net9.0\ArbolBinario.pdb
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\obj\Debug\net9.0\ArbolBinario.genruntimeconfig.cache
+C:\Users\Hp\Documents\ESTRUCTURA-DE-DATOS\ArbolBinario\obj\Debug\net9.0\ref\ArbolBinario.dll
